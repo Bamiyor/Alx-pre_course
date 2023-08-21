@@ -1,1 +1,1 @@
-My first readme
+Im loving these lectures
